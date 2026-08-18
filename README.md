@@ -23,32 +23,44 @@
 - 📍 Maharashtra, India
 
 ---
-
 ## 🌐 Connect With Me
 
 <p align="left">
 
 <a href="mailto:harshalsonawane2025@gmail.com">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="35" width="45"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="35" width="45"/>
 </a>
 
 <a href="https://www.linkedin.com/in/harshal-sonawane-32997025b/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45"/>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/harshalsonawan11" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="35" width="45"/>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="35" width="45"/>
 </a>
 
 <a href="https://www.instagram.com/harshalsonawane_30_/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="45"/>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="45"/>
 </a>
 
 <a href="https://github.com/HarshalSonawane30" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="35" width="45"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="35" width="45"/>
 </a>
 
 </p>
+
+### 📫 Reach Me At
+
+📧 **Email:** [harshalsonawane2025@gmail.com](mailto:harshalsonawane2025@gmail.com)
+
+💼 **LinkedIn:** [Harshal Sonawane](https://www.linkedin.com/in/harshal-sonawane-32997025b/)
+
+🧑‍💻 **HackerRank:** [harshalsonawan11](https://www.hackerrank.com/profile/harshalsonawan11)
+
+📸 **Instagram:** [@harshalsonawane_30_](https://www.instagram.com/harshalsonawane_30_/)
+
+🐙 **GitHub:** [HarshalSonawane30](https://github.com/HarshalSonawane30)
+
 
 ---
 
