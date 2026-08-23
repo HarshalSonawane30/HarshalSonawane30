@@ -14,15 +14,16 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final Year B.E. Computer Engineering Student at SPPU
-- 💼 Software Engineer Trainee at **Sumago Infotech Pvt. Ltd.**
-- ☕ Passionate about **Java, Spring Boot & Backend Development**
-- 🌱 Currently learning **Advanced Java, Microservices, System Design & DevOps**
-- 🔐 Interested in building **secure and scalable web applications**
-- 🚀 Love building real-world full-stack applications
-- 📍 Maharashtra, India
+* 🎓 Final Year B.E. Computer Engineering Student at SPPU
+* 💼 Software Engineer Trainee at **Sumago Infotech Pvt. Ltd.**
+* ☕ Passionate about **Java, Spring Boot & Backend Development**
+* 🌱 Currently learning **Advanced Java, Microservices, System Design & DevOps**
+* 🔐 Interested in building **secure and scalable web applications**
+* 🚀 Love building real-world full-stack applications
+* 📍 Maharashtra, India
 
 ---
+
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -39,6 +40,10 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="35" width="45"/>
 </a>
 
+<a href="https://leetcode.com/u/harshalsonawane2025/" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="35" width="45"/>
+</a>
+
 <a href="https://www.instagram.com/harshalsonawane_30_/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="45"/>
 </a>
@@ -49,7 +54,6 @@
 
 </p>
 
-
 ### 📫 Reach Me At
 
 📧 **Email:** [harshalsonawane2025@gmail.com](mailto:harshalsonawane2025@gmail.com)
@@ -58,10 +62,11 @@
 
 🧑‍💻 **HackerRank:** [harshalsonawan11](https://www.hackerrank.com/profile/harshalsonawan11)
 
+🧩 **LeetCode:** [harshalsonawane2025](https://leetcode.com/u/harshalsonawane2025/)
+
 📸 **Instagram:** [@harshalsonawane_30_](https://www.instagram.com/harshalsonawane_30_/)
 
 🐙 **GitHub:** [HarshalSonawane30](https://github.com/HarshalSonawane30)
-
 
 ---
 
@@ -185,11 +190,11 @@
 
 **Tech Stack:** Spring Boot, Spring Security, Hibernate, JPA, MySQL, MongoDB, JWT, RBAC
 
-- 🏗 Developed a multi-tier backend architecture
-- 🔗 Built **20+ REST APIs** for Admin, Doctor, and Patient modules
-- 🔐 Implemented JWT Authentication and Role-Based Authorization
-- 🗄 Integrated MySQL and MongoDB for efficient data management
-- ✅ Applied Bean Validation and Global Exception Handling
+* 🏗 Developed a multi-tier backend architecture
+* 🔗 Built **20+ REST APIs** for Admin, Doctor, and Patient modules
+* 🔐 Implemented JWT Authentication and Role-Based Authorization
+* 🗄 Integrated MySQL and MongoDB for efficient data management
+* ✅ Applied Bean Validation and Global Exception Handling
 
 ---
 
@@ -197,12 +202,12 @@
 
 **Tech Stack:** Spring Boot, React.js, MySQL, WebSocket, JWT, Cloudinary, Spring Mail
 
-- 🌐 Built a full-stack peer-to-peer learning platform
-- 💬 Implemented real-time chat using WebSocket, STOMP & SockJS
-- 🗄 Designed a normalized relational database schema
-- 🔐 Added secure authentication using Spring Security and JWT
-- ☁️ Integrated Cloudinary for media uploads
-- 📧 Added Spring Mail for email notifications
+* 🌐 Built a full-stack peer-to-peer learning platform
+* 💬 Implemented real-time chat using WebSocket, STOMP & SockJS
+* 🗄 Designed a normalized relational database schema
+* 🔐 Added secure authentication using Spring Security and JWT
+* ☁️ Integrated Cloudinary for media uploads
+* 📧 Added Spring Mail for email notifications
 
 ---
 
@@ -212,35 +217,35 @@
 
 **Software Engineer Trainee**
 
-- Developed RESTful APIs using Node.js and Express.js
-- Designed MySQL and MongoDB database schemas
-- Implemented JWT Authentication and Role-Based Access Control
-- Worked in an Agile development environment
-- Participated in debugging, code reviews, and deployment activities
+* Developed RESTful APIs using Node.js and Express.js
+* Designed MySQL and MongoDB database schemas
+* Implemented JWT Authentication and Role-Based Access Control
+* Worked in an Agile development environment
+* Participated in debugging, code reviews, and deployment activities
 
 ---
 
 ## 📚 Currently Learning
 
-- ☕ Advanced Java
-- 🍃 Spring Boot
-- 🏗 Microservices
-- 🧠 System Design
-- 🐳 Docker
-- ☁️ AWS
-- ⚙️ DevOps
+* ☕ Advanced Java
+* 🍃 Spring Boot
+* 🏗 Microservices
+* 🧠 System Design
+* 🐳 Docker
+* ☁️ AWS
+* ⚙️ DevOps
 
 ---
 
 ## 📖 Computer Science Fundamentals
 
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- DBMS
-- Operating Systems
-- Computer Networks
-- System Design
-- Design Patterns
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* DBMS
+* Operating Systems
+* Computer Networks
+* System Design
+* Design Patterns
 
 ---
 
