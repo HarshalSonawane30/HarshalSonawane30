@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:141414,100:E50914&height=220&section=header&text=HARSHAL%20SONAWANE&fontSize=46&fontColor=E50914&fontAlignY=40&animation=fadeIn&desc=A%20Streaming%20Original%20Portfolio&descAlignY=60&descColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EB001B,50:F79E1B,100:000000&height=220&section=header&text=HARSHAL%20SONAWANE&fontSize=46&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Priceless.%20Everything%20else%20is%20code.&descAlignY=63&descColor=ffffff"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=700&size=28&duration=3000&pause=1000&color=E50914&background=00000000&center=true&vCenter=true&width=800&lines=NOW+PLAYING%3A+Full+Stack+Java+Developer;NEW+EPISODE%3A+Spring+Boot+Enthusiast;TRENDING%3A+Backend+%26+REST+API+Developer;CONTINUE+WATCHING%3A+Open+to+Work"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=700&size=26&duration=3000&pause=1000&color=F79E1B&background=00000000&center=true&vCenter=true&width=800&lines=Full+Stack+Java+Developer;Spring+Boot+Developer;Backend+%26+REST+API+Developer;Building+Secure+%26+Scalable+Apps;Open+to+Work"/>
 
 </div>
 
@@ -10,47 +10,43 @@
 
 <div align="center">
 
-## 🎬 SERIES OVERVIEW
+## 💳 CARDHOLDER PROFILE
 
 </div>
 
-> **Genre:** Backend Development, Web Development, Problem Solving
-> **Rating:** 🔴🔴🔴🔴🔴 (Production Ready)
-> **Status:** `Now Streaming` — Final Season (Final Year, B.E. Computer Engineering, SPPU)
-
-| 📺 Episode | Description |
+| Field | Detail |
 |:---|:---|
-| 🎓 **S04 · Student Arc** | Final Year B.E. Computer Engineering Student at SPPU |
-| 💼 **S01 · The Trainee** | Software Engineer Trainee at **Sumago Infotech Pvt. Ltd.** |
-| ☕ **Ongoing Saga** | Passionate about Java, Spring Boot & Backend Development |
-| 🌱 **Coming Soon** | Learning Advanced Java, Microservices, System Design & DevOps |
-| 🔐 **Special Interest** | Building secure and scalable web applications |
-| 📍 **Filming Location** | Maharashtra, India |
+| 🎓 **Status** | Final Year B.E. Computer Engineering Student at SPPU |
+| 💼 **Employer** | Software Engineer Trainee, **Sumago Infotech Pvt. Ltd.** |
+| ☕ **Preferred Category** | Java, Spring Boot & Backend Development |
+| 🌱 **Pending Charges** | Advanced Java, Microservices, System Design & DevOps |
+| 🔐 **Security Chip** | Building secure and scalable web applications |
+| 📍 **Issued In** | Maharashtra, India |
 
 ---
 
 <div align="center">
 
-## 🍿 CONNECT & CHILL
+## 📇 REACH THE CARDHOLDER
 
 </div>
 
 <p align="center">
 
 <a href="mailto:harshalsonawane2025@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-E50914?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EB001B?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/harshal-sonawane-32997025b/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-141414?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=F79E1B"/>
 </a>
 
 <a href="https://github.com/HarshalSonawane30" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=E50914"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=F79E1B"/>
 </a>
 
 <a href="https://leetcode.com/u/harshalsonawane2025/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-141414?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+<img src="https://img.shields.io/badge/LeetCode-EB001B?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/harshalsonawan11" target="_blank">
@@ -58,7 +54,7 @@
 </a>
 
 <a href="https://www.instagram.com/harshalsonawane_30_/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-141414?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+<img src="https://img.shields.io/badge/Instagram-F79E1B?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
@@ -67,7 +63,7 @@
 
 <div align="center">
 
-## 🎥 CAST & CREW (Tech Stack)
+## 🏦 ACCEPTED EVERYWHERE (Tech Stack)
 
 </div>
 
@@ -114,14 +110,14 @@
 
 <div align="center">
 
-## 🔴 TOP PICKS FOR YOU (Featured Projects)
+## 🧾 TRANSACTION HISTORY (Featured Projects)
 
 </div>
 
 ### 🏥 Hospital Management System
-**🎞️ Genre:** Spring Boot · Spring Security · Hibernate · JPA · MySQL · MongoDB · JWT · RBAC
+**💳 Category:** Spring Boot · Spring Security · Hibernate · JPA · MySQL · MongoDB · JWT · RBAC
 
-> A gripping multi-tier backend thriller.
+> Amount charged: 20+ REST APIs. Approved instantly.
 
 * 🏗 Developed a multi-tier backend architecture
 * 🔗 Built **20+ REST APIs** for Admin, Doctor, and Patient modules
@@ -132,9 +128,9 @@
 ---
 
 ### 🎓 Learn and Let Learn — P2P Learning Platform
-**🎞️ Genre:** Spring Boot · React.js · MySQL · WebSocket · JWT · Cloudinary · Spring Mail
+**💳 Category:** Spring Boot · React.js · MySQL · WebSocket · JWT · Cloudinary · Spring Mail
 
-> An inspiring full-stack drama about peer-to-peer learning.
+> Amount charged: Real-time full-stack platform. No decline.
 
 * 🌐 Built a full-stack peer-to-peer learning platform
 * 💬 Implemented real-time chat using WebSocket, STOMP & SockJS
@@ -147,7 +143,7 @@
 
 <div align="center">
 
-## 🎙️ BEHIND THE SCENES (Experience)
+## 🏢 EMPLOYMENT RECORD (Experience)
 
 </div>
 
@@ -163,25 +159,25 @@
 
 <div align="center">
 
-## 📅 NEXT EPISODES (Currently Learning)
+## 📈 UPCOMING STATEMENT (Currently Learning)
 
 </div>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Advanced%20Java-141414?style=for-the-badge&logo=coffeescript&logoColor=E50914"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-141414?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
-<img src="https://img.shields.io/badge/Microservices-141414?style=for-the-badge&logo=kubernetes&logoColor=E50914"/>
-<img src="https://img.shields.io/badge/System%20Design-141414?style=for-the-badge&logo=googledocs&logoColor=E50914"/>
-<img src="https://img.shields.io/badge/Docker-141414?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/AWS-141414?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/DevOps-141414?style=for-the-badge&logo=githubactions&logoColor=E50914"/>
+<img src="https://img.shields.io/badge/Advanced%20Java-000000?style=for-the-badge&logo=coffeescript&logoColor=F79E1B"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=kubernetes&logoColor=EB001B"/>
+<img src="https://img.shields.io/badge/System%20Design-000000?style=for-the-badge&logo=googledocs&logoColor=F79E1B"/>
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=githubactions&logoColor=EB001B"/>
 </p>
 
 ---
 
 <div align="center">
 
-## 🎞️ PREVIOUSLY, IN CS FUNDAMENTALS
+## 📚 ACCOUNT FOUNDATIONS (CS Fundamentals)
 
 </div>
 
@@ -199,8 +195,8 @@
 
 <div align="center">
 
-### 🔴 "Code. Learn. Build. Repeat." — *A Harshal Sonawane Original*
+### "Code. Learn. Build. Repeat." — *Priceless.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E50914,50:141414,100:000000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:F79E1B,100:EB001B&height=120&section=footer"/>
 
 </div>
