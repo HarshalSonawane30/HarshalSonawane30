@@ -1,194 +1,127 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Harshal%20Sonawane&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:141414,100:E50914&height=220&section=header&text=HARSHAL%20SONAWANE&fontSize=46&fontColor=E50914&fontAlignY=40&animation=fadeIn&desc=A%20Netflix%20Original%20Portfolio&descAlignY=60&descColor=ffffff"/>
 
-# Hi 👋, I'm Harshal Sonawane
-
-### 🚀 Full Stack Java Developer | Computer Engineering Student | Spring Boot Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Java+Developer;Spring+Boot+Developer;Backend+and+REST+API+Developer;Building+Secure+and+Scalable+Applications;Open+to+Work"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=700&size=28&duration=3000&pause=1000&color=E50914&background=00000000&center=true&vCenter=true&width=800&lines=NOW+PLAYING%3A+Full+Stack+Java+Developer;NEW+EPISODE%3A+Spring+Boot+Enthusiast;TRENDING%3A+Backend+%26+REST+API+Developer;CONTINUE+WATCHING%3A+Open+to+Work"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-* 🎓 Final Year B.E. Computer Engineering Student at SPPU
-* 💼 Software Engineer Trainee at **Sumago Infotech Pvt. Ltd.**
-* ☕ Passionate about **Java, Spring Boot & Backend Development**
-* 🌱 Currently learning **Advanced Java, Microservices, System Design & DevOps**
-* 🔐 Interested in building **secure and scalable web applications**
-* 🚀 Love building real-world full-stack applications
-* 📍 Maharashtra, India
+## 🎬 SERIES OVERVIEW
+
+</div>
+
+> **Genre:** Backend Development, Web Development, Problem Solving
+> **Rating:** 🔴🔴🔴🔴🔴 (Production Ready)
+> **Status:** `Now Streaming` — Final Season (Final Year, B.E. Computer Engineering, SPPU)
+
+| 📺 Episode | Description |
+|:---|:---|
+| 🎓 **S04 · Student Arc** | Final Year B.E. Computer Engineering Student at SPPU |
+| 💼 **S01 · The Trainee** | Software Engineer Trainee at **Sumago Infotech Pvt. Ltd.** |
+| ☕ **Ongoing Saga** | Passionate about Java, Spring Boot & Backend Development |
+| 🌱 **Coming Soon** | Learning Advanced Java, Microservices, System Design & DevOps |
+| 🔐 **Special Interest** | Building secure and scalable web applications |
+| 📍 **Filming Location** | Maharashtra, India |
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
 
-<p align="left">
+## 🍿 CONNECT & CHILL
+
+</div>
+
+<p align="center">
 
 <a href="mailto:harshalsonawane2025@gmail.com" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="35" width="45"/>
+<img src="https://img.shields.io/badge/Email-E50914?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/harshal-sonawane-32997025b/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/harshalsonawan11" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="35" width="45"/>
-</a>
-
-<a href="https://leetcode.com/u/harshalsonawane2025/" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="35" width="45"/>
-</a>
-
-<a href="https://www.instagram.com/harshalsonawane_30_/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="45"/>
+<img src="https://img.shields.io/badge/LinkedIn-141414?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 <a href="https://github.com/HarshalSonawane30" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="35" width="45"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=E50914"/>
+</a>
+
+<a href="https://leetcode.com/u/harshalsonawane2025/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-141414?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/harshalsonawan11" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/>
+</a>
+
+<a href="https://www.instagram.com/harshalsonawane_30_/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-141414?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 
 </p>
 
-### 📫 Reach Me At
-
-📧 **Email:** [harshalsonawane2025@gmail.com](mailto:harshalsonawane2025@gmail.com)
-
-💼 **LinkedIn:** [Harshal Sonawane](https://www.linkedin.com/in/harshal-sonawane-32997025b/)
-
-🧑‍💻 **HackerRank:** [harshalsonawan11](https://www.hackerrank.com/profile/harshalsonawan11)
-
-🧩 **LeetCode:** [harshalsonawane2025](https://leetcode.com/u/harshalsonawane2025/)
-
-📸 **Instagram:** [@harshalsonawane_30_](https://www.instagram.com/harshalsonawane_30_/)
-
-🐙 **GitHub:** [HarshalSonawane30](https://github.com/HarshalSonawane30)
-
 ---
 
-# 🛠 Languages and Tools
+<div align="center">
+
+## 🎥 CAST & CREW (Tech Stack)
+
+</div>
+
+<div align="center">
 
 ### 💻 Programming Languages
 
-<p align="left">
-
-<a href="https://www.java.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
-</a>
-
-</p>
 
 ### ⚙️ Backend Development
 
-<p align="left">
-
-<a href="https://spring.io/projects/spring-boot" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://nodejs.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
-</a>
-
-<a href="https://expressjs.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://hibernate.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="45" height="45"/>
-</a>
-
-</p>
 
 ### 🎨 Frontend Development
 
-<p align="left">
-
-<a href="https://react.dev/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45"/>
-</a>
-
-</p>
 
 ### 🗄️ Databases
 
-<p align="left">
-
-<a href="https://www.mysql.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/>
-</a>
-
-</p>
 
 ### 🧰 Tools & Technologies
 
-<p align="left">
-
-<a href="https://git-scm.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://maven.apache.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://www.postman.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/>
-</a>
-
-<a href="https://www.docker.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45"/>
-</a>
 
-</p>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
+
+## 🔴 TOP PICKS FOR YOU (Featured Projects)
+
+</div>
 
 ### 🏥 Hospital Management System
+**🎞️ Genre:** Spring Boot · Spring Security · Hibernate · JPA · MySQL · MongoDB · JWT · RBAC
 
-**Tech Stack:** Spring Boot, Spring Security, Hibernate, JPA, MySQL, MongoDB, JWT, RBAC
+> A gripping multi-tier backend thriller.
 
 * 🏗 Developed a multi-tier backend architecture
 * 🔗 Built **20+ REST APIs** for Admin, Doctor, and Patient modules
@@ -198,9 +131,10 @@
 
 ---
 
-### 🎓 Learn and Let Learn – P2P Learning Platform
+### 🎓 Learn and Let Learn — P2P Learning Platform
+**🎞️ Genre:** Spring Boot · React.js · MySQL · WebSocket · JWT · Cloudinary · Spring Mail
 
-**Tech Stack:** Spring Boot, React.js, MySQL, WebSocket, JWT, Cloudinary, Spring Mail
+> An inspiring full-stack drama about peer-to-peer learning.
 
 * 🌐 Built a full-stack peer-to-peer learning platform
 * 💬 Implemented real-time chat using WebSocket, STOMP & SockJS
@@ -211,11 +145,13 @@
 
 ---
 
-## 💼 Experience
+<div align="center">
 
-### 💻 Sumago Infotech Pvt. Ltd.
+## 🎙️ BEHIND THE SCENES (Experience)
 
-**Software Engineer Trainee**
+</div>
+
+### 💻 Sumago Infotech Pvt. Ltd. — *Software Engineer Trainee*
 
 * Developed RESTful APIs using Node.js and Express.js
 * Designed MySQL and MongoDB database schemas
@@ -225,34 +161,46 @@
 
 ---
 
-## 📚 Currently Learning
+<div align="center">
 
-* ☕ Advanced Java
-* 🍃 Spring Boot
-* 🏗 Microservices
-* 🧠 System Design
-* 🐳 Docker
-* ☁️ AWS
-* ⚙️ DevOps
+## 📅 NEXT EPISODES (Currently Learning)
 
----
+</div>
 
-## 📖 Computer Science Fundamentals
-
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* DBMS
-* Operating Systems
-* Computer Networks
-* System Design
-* Design Patterns
+<p align="center">
+<img src="https://img.shields.io/badge/Advanced%20Java-141414?style=for-the-badge&logo=coffeescript&logoColor=E50914"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-141414?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/Microservices-141414?style=for-the-badge&logo=kubernetes&logoColor=E50914"/>
+<img src="https://img.shields.io/badge/System%20Design-141414?style=for-the-badge&logo=googledocs&logoColor=E50914"/>
+<img src="https://img.shields.io/badge/Docker-141414?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/AWS-141414?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/DevOps-141414?style=for-the-badge&logo=githubactions&logoColor=E50914"/>
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ "Code. Learn. Build. Repeat."
+## 🎞️ PREVIOUSLY, IN CS FUNDAMENTALS
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
+</div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-000000?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/OOP-000000?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/DBMS-000000?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-000000?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Networks-000000?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/System%20Design-000000?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Design%20Patterns-000000?style=flat-square&logoColor=white"/>
+</p>
+
+---
+
+<div align="center">
+
+### 🔴 "Code. Learn. Build. Repeat." — *A Harshal Sonawane Original*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E50914,50:141414,100:000000&height=120&section=footer"/>
 
 </div>
