@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EB001B,50:F79E1B,100:000000&height=220&section=header&text=HARSHAL%20SONAWANE&fontSize=46&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Priceless.%20Everything%20else%20is%20code.&descAlignY=63&descColor=ffffff"/>
+<img src="./assets/logo-mark.svg" width="700"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=700&size=26&duration=3000&pause=1000&color=F79E1B&background=00000000&center=true&vCenter=true&width=800&lines=Full+Stack+Java+Developer;Spring+Boot+Developer;Backend+%26+REST+API+Developer;Building+Secure+%26+Scalable+Apps;Open+to+Work"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=700&size=24&duration=3000&pause=1000&color=F79E1B&background=00000000&center=true&vCenter=true&width=800&lines=Priceless.+Backend+%26+REST+API+Developer;Spring+Boot+Developer;Building+Secure+%26+Scalable+Apps;Open+to+Work"/>
 
 </div>
 
