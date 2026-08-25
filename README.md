@@ -1,14 +1,18 @@
-# 👋 Hi, I'm Harshal Sonawane
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=700&size=24&duration=3000&pause=1000&color=F79E1B&center=true&vCenter=true&width=800&lines=Backend+%26+REST+API+Developer;Spring+Boot+Developer;Building+Secure+%26+Scalable+Apps;Open+to+Work" alt="Typing SVG">
-</p>
+<img src="./assets/harshal-profile.png" width="100%" alt="Harshal Sonawane Portfolio Poster"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=700&size=24&duration=3000&pause=1000&color=F79E1B&background=00000000&center=true&vCenter=true&width=800&lines=Backend+%26+REST+API+Developer;Spring+Boot+Developer;Building+Secure+%26+Scalable+Apps;Open+to+Work" alt="Typing SVG"/>
+
+</div>
 
 ---
 
-## 💳 CARDHOLDER PROFILE
+# 💳 CARDHOLDER PROFILE
 
-| Field | Detail |
+| Field | Details |
 |---|---|
 | 🎓 **Status** | Final Year B.E. Computer Engineering Student at SPPU |
 | 💼 **Employer** | Software Engineer Trainee, **Sumago Infotech Pvt. Ltd.** |
@@ -19,7 +23,7 @@
 
 ---
 
-## 📇 REACH THE CARDHOLDER
+# 📇 REACH THE CARDHOLDER
 
 <p align="center">
 
@@ -51,17 +55,17 @@
 
 ---
 
-# 🏦 TECH STACK
+# 🏦 ACCEPTED EVERYWHERE — TECH STACK
 
 ## 💻 Programming Languages
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" alt="Java">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" alt="JavaScript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" alt="Python">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" alt="SQL">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" alt="Java"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" alt="SQL"/>
 
 </p>
 
@@ -69,10 +73,10 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" alt="Spring">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" alt="Node.js">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" alt="Express.js">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="45" alt="Hibernate">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" alt="Spring"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" alt="Node.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" alt="Express.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="50" alt="Hibernate"/>
 
 </p>
 
@@ -80,11 +84,11 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" alt="React">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" alt="HTML5">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" alt="CSS3">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" alt="Bootstrap">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" alt="Tailwind CSS">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" alt="React"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" alt="Bootstrap"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="50" alt="Tailwind CSS"/>
 
 </p>
 
@@ -92,10 +96,10 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" alt="MySQL">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" alt="MongoDB">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" alt="Oracle">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" alt="MongoDB"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50" alt="Oracle"/>
 
 </p>
 
@@ -103,11 +107,11 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" alt="Git">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" alt="GitHub">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="45" alt="Maven">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" alt="Postman">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" alt="Docker">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" alt="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" alt="GitHub"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="50" alt="Maven"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50" alt="Postman"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" alt="Docker"/>
 
 </p>
 
@@ -164,13 +168,13 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Advanced%20Java-000000?style=for-the-badge&logo=coffeescript&logoColor=F79E1B" alt="Advanced Java">
-<img src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot">
-<img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=kubernetes&logoColor=EB001B" alt="Microservices">
-<img src="https://img.shields.io/badge/System%20Design-000000?style=for-the-badge&logo=googledocs&logoColor=F79E1B" alt="System Design">
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
-<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS">
-<img src="https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=githubactions&logoColor=EB001B" alt="DevOps">
+<img src="https://img.shields.io/badge/Advanced%20Java-000000?style=for-the-badge&logo=coffeescript&logoColor=F79E1B" alt="Advanced Java"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=kubernetes&logoColor=EB001B" alt="Microservices"/>
+<img src="https://img.shields.io/badge/System%20Design-000000?style=for-the-badge&logo=googledocs&logoColor=F79E1B" alt="System Design"/>
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
+<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS"/>
+<img src="https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=githubactions&logoColor=EB001B" alt="DevOps"/>
 
 </p>
 
@@ -180,13 +184,13 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-000000?style=flat-square" alt="Data Structures and Algorithms">
-<img src="https://img.shields.io/badge/OOP-000000?style=flat-square" alt="OOP">
-<img src="https://img.shields.io/badge/DBMS-000000?style=flat-square" alt="DBMS">
-<img src="https://img.shields.io/badge/Operating%20Systems-000000?style=flat-square" alt="Operating Systems">
-<img src="https://img.shields.io/badge/Computer%20Networks-000000?style=flat-square" alt="Computer Networks">
-<img src="https://img.shields.io/badge/System%20Design-000000?style=flat-square" alt="System Design">
-<img src="https://img.shields.io/badge/Design%20Patterns-000000?style=flat-square" alt="Design Patterns">
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-000000?style=flat-square" alt="DSA"/>
+<img src="https://img.shields.io/badge/OOP-000000?style=flat-square" alt="OOP"/>
+<img src="https://img.shields.io/badge/DBMS-000000?style=flat-square" alt="DBMS"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-000000?style=flat-square" alt="Operating Systems"/>
+<img src="https://img.shields.io/badge/Computer%20Networks-000000?style=flat-square" alt="Computer Networks"/>
+<img src="https://img.shields.io/badge/System%20Design-000000?style=flat-square" alt="System Design"/>
+<img src="https://img.shields.io/badge/Design%20Patterns-000000?style=flat-square" alt="Design Patterns"/>
 
 </p>
 
@@ -194,11 +198,15 @@
 
 # 🏆 ACHIEVEMENT
 
+<div align="center">
+
 ### 📄 Published Research Paper
 
 **Learn & Let Learn — Peer-to-Peer Learning Platform**
 
 **IJCRT2512933 · Impact Factor: 7.97**
+
+</div>
 
 ---
 
@@ -206,15 +214,15 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarshalSonawane30&show_icons=true&theme=dark&hide_border=true&title_color=F79E1B&icon_color=F79E1B&text_color=FFFFFF&bg_color=00000000" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=HarshalSonawane30&show_icons=true&theme=dark&hide_border=true&title_color=F79E1B&icon_color=F79E1B&text_color=FFFFFF&bg_color=00000000" alt="GitHub Stats"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshalSonawane30&theme=dark&hide_border=true&ring=F79E1B&fire=EB001B&currStreakLabel=F79E1B" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshalSonawane30&theme=dark&hide_border=true&ring=F79E1B&fire=EB001B&currStreakLabel=F79E1B" alt="GitHub Streak"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshalSonawane30&layout=compact&theme=dark&hide_border=true&title_color=F79E1B&text_color=FFFFFF&bg_color=00000000" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshalSonawane30&layout=compact&theme=dark&hide_border=true&title_color=F79E1B&text_color=FFFFFF&bg_color=00000000" alt="Top Languages"/>
 
 </p>
 
