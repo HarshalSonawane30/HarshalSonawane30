@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:141414,100:E50914&height=220&section=header&text=HARSHAL%20SONAWANE&fontSize=46&fontColor=E50914&fontAlignY=40&animation=fadeIn&desc=A%20Netflix%20Original%20Portfolio&descAlignY=60&descColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:141414,100:E50914&height=220&section=header&text=HARSHAL%20SONAWANE&fontSize=46&fontColor=E50914&fontAlignY=40&animation=fadeIn&desc=A%20Streaming%20Original%20Portfolio&descAlignY=60&descColor=ffffff"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=700&size=28&duration=3000&pause=1000&color=E50914&background=00000000&center=true&vCenter=true&width=800&lines=NOW+PLAYING%3A+Full+Stack+Java+Developer;NEW+EPISODE%3A+Spring+Boot+Enthusiast;TRENDING%3A+Backend+%26+REST+API+Developer;CONTINUE+WATCHING%3A+Open+to+Work"/>
 
