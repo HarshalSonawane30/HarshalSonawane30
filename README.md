@@ -21,7 +21,7 @@
 | Field | Details |
 |---|---|
 | 🎓 **Cardholder Status** | Final Year B.E. Computer Engineering Student at SPPU |
-| 💼 **Current Position** | Software Engineer Trainee — **Sumago Infotech Pvt. Ltd.** |
+| 💼 **Current Position** | Trainee Java Full Stack Developer Intern — **TekPyramid Pvt. Ltd.** (Remote) |
 | ☕ **Primary Category** | Java • Spring Boot • Backend Development |
 | 🔐 **Security Level** | Authentication • Authorization • JWT • RBAC |
 | 🌐 **Transaction Type** | REST APIs • Full Stack Applications |
@@ -77,6 +77,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" alt="C++"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" alt="Python"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" alt="TypeScript"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" alt="SQL"/>
 
 </p>
@@ -114,7 +115,7 @@
 
 **Frontend Skills**
 
-`React.js` `HTML5` `CSS3` `JavaScript` `Bootstrap` `Tailwind CSS` `React Router` `Responsive Web Design`
+`React.js` `TypeScript` `HTML5` `CSS3` `JavaScript` `Bootstrap` `Tailwind CSS` `React Router` `Responsive Web Design`
 
 ---
 
@@ -130,7 +131,7 @@
 
 **Databases**
 
-`MySQL` `MongoDB` `H2 Database` `Oracle`
+`MySQL` `MongoDB` `Oracle SQL` `H2 Database`
 
 ---
 
@@ -151,59 +152,7 @@
 
 # 🧾 TRANSACTION HISTORY — FEATURED PROJECTS
 
-## 🏥 Hospital Management System
-
-**💳 Transaction Category**
-
-`Spring Boot` `Spring Security` `Hibernate` `JPA` `MySQL` `MongoDB` `JWT` `RBAC`
-
-> **TRANSACTION STATUS:** ✅ APPROVED
-
-- 🏗️ Developed a multi-tier backend architecture
-- 🔗 Built **20+ REST APIs** for Admin, Doctor, and Patient modules
-- 🔐 Implemented **JWT Authentication**
-- 👥 Implemented **Role-Based Authorization**
-- 🗄️ Integrated **MySQL and MongoDB**
-- ✅ Added **Bean Validation**
-- ⚠️ Implemented **Global Exception Handling**
-
----
-
-## 🎓 Learn & Let Learn — P2P Learning Platform
-
-**💳 Transaction Category**
-
-`Spring Boot` `React.js` `MySQL` `WebSocket` `JWT` `Cloudinary` `Spring Mail`
-
-> **TRANSACTION STATUS:** ✅ APPROVED
-
-- 🌐 Built a full-stack peer-to-peer learning platform
-- 💬 Implemented real-time chat using **WebSocket, STOMP & SockJS**
-- 🔐 Added secure authentication using **Spring Security and JWT**
-- 🗄️ Designed a normalized relational database schema
-- ☁️ Integrated **Cloudinary** for media uploads
-- 📧 Added **Spring Mail** notifications
-- 👥 Enabled profile, mentoring, course and learning functionality
-
----
-
-## 👨‍💼 Employee Management System
-
-**💳 Transaction Category**
-
-`React.js` `Node.js` `Express.js` `MySQL` `REST API`
-
-> **TRANSACTION STATUS:** ✅ APPROVED
-
-- 👥 Developed a full-stack employee management system
-- 🔗 Implemented CRUD operations
-- 🌐 Built RESTful APIs
-- 🗄️ Used MySQL for data management
-- ⚛️ Developed responsive React.js interfaces
-
----
-
-## 🧴 Skin Sense — Smart Skin Health
+## 🧴 Skin Sense — Smart Skin Health Detection
 
 **💳 Transaction Category**
 
@@ -211,29 +160,65 @@
 
 > **TRANSACTION STATUS:** ✅ APPROVED
 
-- 🤖 Developed an intelligent skin disease detection application
-- 🧠 Built a CNN-based classification model
-- 📷 Processed images using OpenCV
-- 🔬 Used TensorFlow and Keras
-- 🗄️ Used MySQL for data management
+- 🤖 Built an end-to-end skin disease detection application in Python, applying object-oriented design across the data pipeline, model training, and inference layers
+- 🧠 Designed and trained a **CNN** using TensorFlow and Keras to classify skin conditions from user-uploaded images
+- 📷 Used **OpenCV** for image preprocessing and augmentation
+- 🗄️ Integrated the trained model with a MySQL-backed application layer, handling image uploads, storing classification results, and returning predictions
+- 🐞 Debugged and iterated on model performance and preprocessing steps to improve classification reliability
+
+---
+
+## 🎓 Learn & Let Learn — P2P Learning Platform
+
+**💳 Transaction Category**
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Socket.io` `WebRTC` `JWT` `REST API`
+
+> **TRANSACTION STATUS:** ✅ APPROVED
+
+- 🌐 Built a full-stack peer-to-peer learning platform independently, learning and integrating Socket.io and WebRTC through self-directed research
+- 🔐 Designed and implemented secure RESTful APIs with **JWT authentication** and CRUD operations for user, mentor, course, and profile management
+- 💬 Integrated real-time chat using **Socket.io** and one-to-one video calling using **WebRTC**
+- 🎨 Built a responsive, user-friendly UI using React.js and Tailwind CSS with reusable components
+- 🔧 Applied Git/GitHub, Agile, and SDLC practices throughout development
+
+---
+
+## 🛒 E-Commerce Web Application
+
+**💳 Transaction Category**
+
+`Java` `Spring Boot` `Hibernate` `MySQL` `REST API` `HTML` `CSS` `JavaScript`
+
+> **TRANSACTION STATUS:** ✅ APPROVED
+
+- 🏗️ Developed a full-stack e-commerce web application using Java and Spring Boot with a layered architecture for managing products, users, and orders
+- 🔗 Implemented RESTful APIs and CRUD operations for product and user management, with **Hibernate/JPA** for database interaction
+- 🗄️ Integrated MySQL to store and manage product, customer, and order data using entity relationships and SQL queries
+- ⚠️ Implemented backend validation and exception handling to improve reliability and maintainability
 
 ---
 
 # 🏢 EMPLOYMENT RECORD
 
+## 💻 TekPyramid Pvt. Ltd.
+
+### Trainee Java Full Stack Developer Intern
+**July 2026 – Current** · Remote
+
+- ☕ Learned and worked with **Java, SQL, HTML, CSS, and JavaScript** for full-stack web application development
+- 🌐 Developed and maintained web applications using frontend and backend technologies
+- 🗄️ Worked with databases and SQL queries to store, retrieve, and manage application data
+- 🐞 Practiced debugging, testing, and resolving application issues to improve application functionality and reliability
+
 ## 💻 Sumago Infotech Pvt. Ltd.
 
-### Software Engineer Trainee
-**Aug 2025 – Apr 2026**
+### Trainee Software Developer
+**Aug 2025 – Apr 2026** · Nashik, Maharashtra
 
-- 🌐 Developed responsive web applications using **HTML5, CSS3, JavaScript, Bootstrap, and React.js**
-- 🔗 Integrated **RESTful APIs**
-- 🐞 Performed debugging, testing and code optimization
-- 🔧 Used **Git and GitHub**
-- 👥 Worked in an **Agile development environment**
-- 🗄️ Worked with **MySQL and MongoDB**
-- 🔐 Implemented authentication and authorization
-- 👨‍💻 Contributed to a **Full Stack Employee Management System**
+- 🌐 Gained hands-on training using **JavaScript, React.js, Node.js, Express.js, MySQL, Git, and RESTful APIs**
+- 👨‍💻 Developed a full-stack **Employee Management System** with CRUD operations, REST APIs, and MySQL database integration
+- 🔧 Practiced debugging, testing, Git-based version control, and Agile software development practices through practical projects
 
 ---
 
@@ -294,7 +279,7 @@
 |---|---|
 | 🟢 **Availability** | Open to Work |
 | 💼 **Target Role** | Java Developer / Backend Developer / Full Stack Developer |
-| ☕ **Primary Stack** | Java + Spring Boot + React |
+| ☕ **Primary Stack** | Java + Spring Boot + React + TypeScript |
 | 🔐 **Specialization** | REST APIs + Authentication + Backend Systems |
 | 🌱 **Next Goal** | Microservices + System Design + DevOps |
 
