@@ -35,6 +35,10 @@
 
 <p align="center">
 
+<a href="https://harshalsonawane.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=F79E1B" alt="Portfolio"/>
+</a>
+
 <a href="mailto:harshalsonawane2025@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-EB001B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
@@ -58,6 +62,8 @@
 </p>
 
 ### 📫 Direct Contact
+
+**Portfolio:** [harshalsonawane.vercel.app](https://harshalsonawane.vercel.app/)
 
 **Email:** [harshalsonawane2025@gmail.com](mailto:harshalsonawane2025@gmail.com)
 
