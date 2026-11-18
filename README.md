@@ -35,42 +35,51 @@ Java Full Stack Developer with hands-on experience building scalable web applica
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<table width="100%">
+<tr>
+<td width="16%" align="center"><b>💻 Languages</b></td>
+<td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" height="55" alt="Java"/><br/><sub><b>Java</b></sub></td>
+<td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55" height="55" alt="C++"/><br/><sub><b>C++</b></sub></td>
+<td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
+<td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="55" height="55" alt="TypeScript"/><br/><sub><b>TypeScript</b></sub></td>
+</tr>
+<tr>
+<td width="16%" align="center"><b>⚙️ Backend</b></td>
+<td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="55" height="55" alt="Spring Boot"/><br/><sub><b>Spring Boot</b></sub></td>
+<td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="55" height="55" alt="Hibernate"/><br/><sub><b>Hibernate</b></sub></td>
+<td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js"/><br/><sub><b>Node.js</b></sub></td>
+<td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="55" height="55" alt="Express.js"/><br/><sub><b>Express.js</b></sub></td>
+</tr>
+<tr>
+<td width="16%" align="center"><b>🎨 Frontend</b></td>
+<td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" height="55" alt="React"/><br/><sub><b>React</b></sub></td>
+<td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5"/><br/><sub><b>HTML5</b></sub></td>
+<td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3"/><br/><sub><b>CSS3</b></sub></td>
+<td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="55" height="55" alt="Bootstrap"/><br/><sub><b>Bootstrap</b></sub></td>
+<td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="Tailwind"/><br/><sub><b>Tailwind</b></sub></td>
+</tr>
+<tr>
+<td width="16%" align="center"><b>🗄️ Databases</b></td>
+<td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL"/><br/><sub><b>MySQL</b></sub></td>
+<td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="55" height="55" alt="Oracle SQL"/><br/><sub><b>Oracle SQL</b></sub></td>
+<td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="55" height="55" alt="MongoDB"/><br/><sub><b>MongoDB</b></sub></td>
+</tr>
+<tr>
+<td width="16%" align="center"><b>🧰 Tools</b></td>
+<td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55" height="55" alt="Git"/><br/><sub><b>Git</b></sub></td>
+<td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
+<td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="55" height="55" alt="Postman"/><br/><sub><b>Postman</b></sub></td>
+<td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="55" height="55" alt="Linux"/><br/><sub><b>Linux</b></sub></td>
+</tr>
+<tr>
+<td width="16%" align="center"><b>🌱 Learning</b></td>
+<td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="55" height="55" alt="Docker"/><br/><sub><b>Docker</b></sub></td>
+<td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55" alt="AWS"/><br/><sub><b>AWS</b></sub></td>
+<td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="55" height="55" alt="Kubernetes"/><br/><sub><b>Kubernetes</b></sub></td>
+</tr>
+</table>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" alt="Java"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" alt="TypeScript"/>
-
-**Backend**
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" alt="Spring"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="45" alt="Hibernate"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" alt="Express"/>
-
-`Spring Boot` `Hibernate/JPA` `Node.js` `Express.js` `REST APIs` `JWT` `Socket.io` `WebRTC`
-
-**Frontend**
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" alt="React"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" alt="HTML5"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" alt="CSS3"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" alt="Bootstrap"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" alt="Tailwind"/>
-
-**Databases**
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" alt="Oracle"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" alt="MongoDB"/>
-
-**Tools**
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" alt="Linux"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" alt="Git"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" alt="GitHub"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" alt="Postman"/>
+**Also:** `REST APIs` `JWT` `Socket.io` `WebRTC` `Hibernate/JPA` `SDLC` `Agile` `DSA` `OOP` `DBMS`
 
 ---
 
